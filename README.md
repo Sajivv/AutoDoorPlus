@@ -16,7 +16,8 @@ Users can remotely control and monitor their doors from anywhere using a mobile 
 ## Access Control:
 AutoDoor allows users to set up access permissions for different individuals or groups. This ensures that only authorized personnel can enter specific areas, providing an added layer of security.
 
-## Activity Logs: The system keeps track of door activities, including who accessed the door and at what time. This log can be useful for security purposes or for monitoring employee attendance.
+## Activity Logs: 
+The system keeps track of door activities, including who accessed the door and at what time. This log can be useful for security purposes or for monitoring employee attendance.
 
 ## Integration with Smart Home Systems: 
 AutoDoor can be integrated with existing smart home systems, allowing users to control their doors along with other connected devices such as lights, thermostats, or window blinds.
